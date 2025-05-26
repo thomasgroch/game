@@ -1,6 +1,5 @@
 /**
   * @desc This file contains the project's "enum" definitions
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
 
 var Direction = {

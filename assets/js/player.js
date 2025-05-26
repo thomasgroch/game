@@ -1,6 +1,5 @@
 /**
   * @desc This file contains the Player "class"
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
 
 var Player = function(x, y, w, h, sprite_file_path, speed = 4) {

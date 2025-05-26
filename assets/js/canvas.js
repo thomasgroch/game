@@ -1,6 +1,5 @@
 /**
   * @desc This file contains the Canvas "class" that holds the context to be drawed in
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
 
 var Canvas = function(tag_id) {

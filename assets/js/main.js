@@ -1,13 +1,6 @@
 /**
   * @desc This file contains the main example loop
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
-
-$.getScript("assets/js/keyboard.js", function() {});
-$.getScript("assets/js/enums.js", function() {});
-$.getScript("assets/js/canvas.js", function() {});
-$.getScript("assets/js/sprite.js", function() {});
-$.getScript("assets/js/player.js", function() {});
 
 //File path variables
 var path_block_brick = 'assets/img/block-brick.png';

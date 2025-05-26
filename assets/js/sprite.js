@@ -1,6 +1,5 @@
 /**
   * @desc This file contains the Sprite "class"
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
 
 var Sprite = function(file_path, is_pattern) {

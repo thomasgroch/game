@@ -1,6 +1,5 @@
 /**
   * @desc This file contains the Keyboard "class" that defines input event listeners and related utilities
-  * @author Cristian Van Herp cristian.vh95@gmail.com
 */
 
 //Key Code constant definitions
