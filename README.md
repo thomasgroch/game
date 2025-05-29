@@ -1,4 +1,4 @@
-# 🎮 Game Storming HTML5 Canvas
+# 🎮 Game HTML5 Canvas
 
 Um exemplo simples de jogo usando HTML5 Canvas e JavaScript puro para demonstrar os conceitos básicos de desenvolvimento de jogos no navegador.
 
